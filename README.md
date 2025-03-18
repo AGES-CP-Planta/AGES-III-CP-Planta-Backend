@@ -2,7 +2,7 @@
 
 API backend service for the CP-Planta production control system, built with NestJS, Prisma, and PostgreSQL.
 
-![Banner](https://via.placeholder.com/800x200?text=CP-Planta+Backend)
+![Banner](https://avatars.githubusercontent.com/u/202462667?s=200&v=4)
 
 ## Overview
 
